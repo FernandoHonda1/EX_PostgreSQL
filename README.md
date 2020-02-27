@@ -1,0 +1,2 @@
+# Ex_PostgreSQL
+EXRCÍCIO PARA AVALIAÇÃO
